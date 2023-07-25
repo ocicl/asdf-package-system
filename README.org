@@ -1,0 +1,9 @@
+* asdf-package-system
+
+
+
+|---------+-----------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/asdf/asdf-package-system.git |
+| commit  | 61776f2                                                         |
+| systems | asdf-package-system                                             |
+|---------+-----------------------------------------------------------------|
